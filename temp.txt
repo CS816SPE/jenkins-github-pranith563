@@ -1,3 +1,5 @@
 First Assignment on jenkins
 
--Activating SCM poll for this repo
+-Activating SCM poll for this repo.
+
+-Trigger to build project for every 5 mins in case of commits.
